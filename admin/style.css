@@ -1,0 +1,57 @@
+
+body{
+	margin: 0;
+    padding: 0;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('images/WhatsApp Image 2024-03-12 at 1.05.10 PM.jpeg') no-repeat center center fixed;
+    background-size: cover;
+	font-size: 0.5em;
+}
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 2rem;
+    background-color: rgba(255, 255, 255, 0.7);
+    /* border-radius: 0.5rem; */
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
+  }
+
+  
+.title{
+	color: red;
+	font-family: cambria;
+	font-size: 1.6em;
+	font-weight: bold;
+
+}
+
+.text{
+	padding: 12px;
+	background-color: rgb(249, 249, 249);
+	color: rgb(0, 0, 0);
+	width: 90%;
+	font-weight: bold;
+}
+
+.tr{
+	color: tomato;
+}
+.btn{
+	color: white;
+	background-color: #666666;;
+	border:0px;
+	box-shadow: 1px 3px 5px 2px;
+	width: 50%;
+	height: 35px;
+	font-size: 1.3em;
+	margin-top:10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.ar{
+	padding: 12px;
+	background-color: black;
+	color: white;
+}
